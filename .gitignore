@@ -1,1 +1,5 @@
-server
+# folders
+/server
+
+# misc
+.DS_Store
